@@ -9,3 +9,15 @@ This was a replica of the popular game Zelda that was build by Akanksha Rai and 
 ## Technologies Used
 
 Unity • C#
+
+
+#Spin the wheel 
+
+[Play the Game on Itch.io](https://akanksharai.itch.io/spin-the-wheel)
+
+This was project 2 of EECS494. I created a puzzle platformer game where you have to match the color of the ball on a spinning wheel to open doors. This was a single person project, I created the entire game.
+
+## Technologies Used
+
+Unity • C#
+
