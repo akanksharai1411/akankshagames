@@ -11,7 +11,7 @@ This was a replica of the popular game Zelda that was build by Akanksha Rai and 
 Unity • C#
 
 
-#Spin the wheel 
+# Spin the wheel 
 
 [Play the Game on Itch.io](https://akanksharai.itch.io/spin-the-wheel)
 
