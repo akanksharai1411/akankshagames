@@ -21,3 +21,11 @@ This was project 2 of EECS494. I created a puzzle platformer game where you have
 
 Unity • C#
 
+# Griddy 
+Endless grid-based tactics roguelike with turn-based and deck-building mechanics.
+Face off against escalating enemy waves, increasing time pressure, and push for a spot on the leaderboard.
+
+## Technologies Used
+Unity • C#
+
+[Play the Game on Itch.io](https://alec-meyer.itch.io/griddy)
